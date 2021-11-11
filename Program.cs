@@ -7,6 +7,7 @@ namespace NewGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Its Me");
+            Console.WriteLine("Orange");
         }
     }
 }
